@@ -12,7 +12,7 @@ Credits and references used in this README:
 -->
 
 # 🌹 Hi there, I'm Aman
-**`Growth Lead at NextWork`** 
+**`Tech Exec at ECELL-MIT`** 
 
 ## About Me
 - A passionate web developer specializing in the MERN stack.
