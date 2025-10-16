@@ -36,7 +36,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/KaskadeCRM">
-        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/https://via.placeholder.com/400x200"
+        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
              alt="KaskadeCRM"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -49,7 +49,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/PixelTalk">
-        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/https://via.placeholder.com/400x200"
+        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
              alt="PixelTalk"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -62,7 +62,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/Appointment-AI-Slack">
-        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/https://via.placeholder.com/400x200"
+        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/public/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
              alt="Appointment AI Slack"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -93,7 +93,7 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Contact**](mailto:amanm06.work@gmail.com)
+- **Contact** : emailto:amanm06.work@gmail.com)
 
 <a href="https://www.linkedin.com/in/aman-mishra-linked-in/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
