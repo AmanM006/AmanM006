@@ -1,16 +1,105 @@
-## Hi there 👋
-
 <!--
-**AmanM006/AmanM006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Credits and references used in this README:
 
-Here are some ideas to get you started:
+1) Layout ideas and section inspiration:
+   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+2) Skill icons (SVG badges):
+   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+
+3) GitHub stats card:
+   https://github.com/anuraghazra/github-readme-stats
 -->
+
+# 🌹 Hi there, I'm Aman
+**`Growth Lead at NextWork`** 
+
+## About Me
+- A passionate web developer specializing in the MERN stack.
+- I work at **E-Cell**, contributing to innovative projects and initiatives.
+- Built 10+ projects across diverse fields, from web apps to AI-powered tools.
+
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,python,typescript,nodejs&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: Basic ML workflows,n8n projects forming Agentic AI.
+
+
+---
+
+## Projects - showcase
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/AmanM006/KaskadeCRM">
+        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/Screenshot 2025-10-16 224756.png"
+             alt="KaskadeCRM"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>KaskadeCRM</b><br/>
+      <sub>A modern CRM tool to manage customer relationships efficiently.</sub><br/>
+      🔗 <a href="https://github.com/AmanM006/KaskadeCRM">Repo</a>
+      <br/>
+      <sub>Tags: CRM, Web App, Productivity</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/AmanM006/PixelTalk">
+        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/img/Screenshot 2025-10-16 224826.png"
+             alt="PixelTalk"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>PixelTalk</b><br/>
+      <sub>A creative platform for artists to share and discuss digital art.</sub><br/>
+      🔗 <a href="https://github.com/AmanM006/PixelTalk">Repo</a>
+      <br/>
+      <sub>Tags: Art, Social, Web App</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/AmanM006/Appointment-AI-Slack">
+        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/public/Screenshot 2025-10-16 224543.png"
+             alt="Appointment AI Slack"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>Appointment AI Slack</b><br/>
+      <sub>AI-powered Slack bot to manage appointments and scheduling automatically.</sub><br/>
+      🔗 <a href="https://github.com/AmanM006/Appointment-AI-Slack">Repo</a>
+      <br/>
+      <sub>Tags: AI, Slack Bot, Productivity</sub>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## Stats
+<!-- Stats card by anuraghazra/github-readme-stats
+     Customization guide:
+     - Hide private contributions: &count_private=true|false
+     - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
+     - Show icons: &show_icons=true
+     Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanM006&show_icons=true&theme=gruvbox)
+
+---
+
+## Links
+<!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
+     https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
+- [**Contact**](mailto:amanm06.work@gmail.com)
+
+<a href="https://www.linkedin.com/in/aman-mishra-linked-in/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+<!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
+## My Contribution Streak
+
+![Aman's GitHub contribution streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanM006&theme=tokyonight)
