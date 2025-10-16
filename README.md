@@ -103,6 +103,9 @@ Credits and references used in this README:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - **Contact** : amanm06.work@gmail.com
 
+---
+## Social
+
 <a href="https://www.linkedin.com/in/aman-mishra-linked-in/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
