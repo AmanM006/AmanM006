@@ -93,7 +93,7 @@ Credits and references used in this README:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- **Contact** : emailto:amanm06.work@gmail.com)
+- **Contact** : amanm06.work@gmail.com
 
 <a href="https://www.linkedin.com/in/aman-mishra-linked-in/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
