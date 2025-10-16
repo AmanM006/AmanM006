@@ -23,6 +23,7 @@ Credits and references used in this README:
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
      https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+     
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,python,typescript,nodejs&theme=light)](https://skillicons.dev)
 
 **Also comfortable with**: Basic ML workflows,n8n projects forming Agentic AI.
@@ -86,6 +87,7 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanM006&layout=compact&show_icons=true&theme=tokyonight&hide_border=false)     
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanM006&show_icons=true&theme=tokyonight&hide_border=false)
 
 ---
