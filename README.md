@@ -87,10 +87,14 @@ Credits and references used in this README:
      - Theme list: ?theme=gruvbox,radical,tokyonight,onedark,dracula etc.
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanM006&layout=compact&show_icons=true&theme=tokyonight&hide_border=false)
+<!-- Top Languages (resized to match GitHub Stats card width) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanM006&layout=compact&show_icons=true&theme=tokyonight&hide_border=false&card_width=450)
 
 
+
+<!-- GitHub Stats -->
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanM006&show_icons=true&theme=tokyonight&hide_border=false)
+
 
 ---
 
