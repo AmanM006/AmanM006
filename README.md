@@ -55,7 +55,7 @@ Credits and references used in this README:
       </a>
       <br/>
       <b>PixelTalk</b><br/>
-      <sub>A creative platform for artists to share and discuss digital art.</sub><br/>
+      <sub>A creative platform for artists to share and discuss.</sub><br/>
       🔗 <a href="https://github.com/AmanM006/PixelTalk">Repo</a>
       <br/>
       <sub>Tags: Art, Social, Web App</sub>
