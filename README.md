@@ -11,7 +11,7 @@ Credits and references used in this README:
    https://github.com/anuraghazra/github-readme-stats
 -->
 
-# 🌹 Hi there, I'm Aman
+# Hi there, I'm Aman
 **`Tech Exec at ECELL-MIT`** 
 
 ## About Me
@@ -36,7 +36,7 @@ Credits and references used in this README:
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/KaskadeCRM">
-        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/Screenshot 2025-10-16 224756.png"
+        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/https://via.placeholder.com/400x200"
              alt="KaskadeCRM"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -49,7 +49,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/PixelTalk">
-        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/img/Screenshot 2025-10-16 224826.png"
+        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/https://via.placeholder.com/400x200"
              alt="PixelTalk"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -62,7 +62,7 @@ Credits and references used in this README:
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/Appointment-AI-Slack">
-        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/public/Screenshot 2025-10-16 224543.png"
+        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/https://via.placeholder.com/400x200"
              alt="Appointment AI Slack"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
