@@ -88,7 +88,7 @@ Credits and references used in this README:
      - Show icons: &show_icons=true
      Docs: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Top Languages (resized to match GitHub Stats card width) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanM006&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=false&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanM006&langs_count=8&layout=compact&show_icons=true&theme=tokyonight&hide_border=false&card_width=460)
 
 
 
