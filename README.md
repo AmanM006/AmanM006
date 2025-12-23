@@ -94,5 +94,4 @@ Credits and references used in this README:
 - **LinkedIn** : https://www.linkedin.com/in/aman-mishra-linked-in/
 
 
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+  
