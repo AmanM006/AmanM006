@@ -91,6 +91,7 @@ Credits and references used in this README:
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
 - **Contact** : amanm06.work@gmail.com
+- **LinkedIn** : https://www.linkedin.com/in/aman-mishra-linked-in/
 
 ---
 ## Social
