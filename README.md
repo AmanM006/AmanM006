@@ -93,9 +93,6 @@ Credits and references used in this README:
 - **Contact** : amanm06.work@gmail.com
 - **LinkedIn** : https://www.linkedin.com/in/aman-mishra-linked-in/
 
----
-## Social
 
-<a href="https://www.linkedin.com/in/aman-mishra-linked-in/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
