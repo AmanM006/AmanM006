@@ -36,43 +36,43 @@ Credits and references used in this README:
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/AmanM006/KaskadeCRM">
-        <img src="https://raw.githubusercontent.com/AmanM006/KaskadeCRM/main/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
-             alt="KaskadeCRM"
+      <a href="https://github.com/AmanM006/traceai">
+        <img src="https://placehold.co/600x400/000000/FFFFFF?text=TraceAI"
+             alt="TraceAI"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>KaskadeCRM</b><br/>
-      <sub>A modern CRM tool to manage customer relationships efficiently.</sub><br/>
-      🔗 <a href="https://github.com/AmanM006/KaskadeCRM">Repo</a>
+      <b>TraceAI</b><br/>
+      <sub>Full-stack error monitoring platform with an AI-powered diagnostic SDK.</sub><br/>
+      🔗 <a href="https://github.com/AmanM006/traceai">Repo</a>
       <br/>
-      <sub>Tags: CRM, Web App, Productivity</sub>
+      <sub>Tags: Next.js, Supabase, AI</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/AmanM006/PixelTalk">
-        <img src="https://raw.githubusercontent.com/AmanM006/PixelTalk/main/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
+        <img src="https://placehold.co/600x400/000000/FFFFFF?text=PixelTalk"
              alt="PixelTalk"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>PixelTalk</b><br/>
-      <sub>A creative platform for artists to share and discuss.</sub><br/>
+      <sub>A retro-themed creative platform for artists to share and discuss threads.</sub><br/>
       🔗 <a href="https://github.com/AmanM006/PixelTalk">Repo</a>
       <br/>
-      <sub>Tags: Art, Social, Web App</sub>
+      <sub>Tags: MERN, Social, Web App</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/AmanM006/Appointment-AI-Slack">
-        <img src="https://raw.githubusercontent.com/AmanM006/Appointment-AI-Slack/main/public/starry-night-sky-galaxy-night-star-overlay-midnight-sky-background-dynamic-night-sky_1121023-419.jpg"
-             alt="Appointment AI Slack"
+      <a href="https://github.com/AmanM006/GitHelix">
+        <img src="https://placehold.co/600x400/000000/FFFFFF?text=GitHelix"
+             alt="GitHelix"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Appointment AI Slack</b><br/>
-      <sub>AI-powered Slack bot to manage appointments and scheduling automatically.</sub><br/>
-      🔗 <a href="https://github.com/AmanM006/Appointment-AI-Slack">Repo</a>
+      <b>GitHelix</b><br/>
+      <sub>Autonomous RAG pipeline for repository maintenance and issue analysis.</sub><br/>
+      🔗 <a href="https://github.com/AmanM006/GitHelix">Repo</a>
       <br/>
-      <sub>Tags: AI, Slack Bot, Productivity</sub>
+      <sub>Tags: Python, Gemini, Pinecone</sub>
     </td>
   </tr>
 </table>
